@@ -1,0 +1,22 @@
+{
+  "name": "@tylau/mystartnpm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylau/myStartNpm.git"
+  },
+  "author": "tylau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylau/myStartNpm/issues"
+  },
+  "homepage": "https://github.com/tylau/myStartNpm#readme",
+  "description": "mystartnpm",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
